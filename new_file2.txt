@@ -1,2 +1,6 @@
 Hello My name is
-KIT(Kumoh National Institute of Technology)
+KIT
+
+Computer Sciences
+C Programming
+Object-oriented programming
